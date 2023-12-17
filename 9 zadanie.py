@@ -5,7 +5,7 @@ import logging
 import keyboard as keyb
 
 # Вызов логгера
-logging.basicConfig(filename='bochka.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+logging.basicConfig(filename='bochki.log', format='%(asctime)s [%(levelname)s] %(message)s', level=logging.DEBUG)
 
 def a(n):
 # Генерирует последовательность чисел от 1 до N в случайном порядке.
