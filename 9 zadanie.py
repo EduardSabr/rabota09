@@ -20,6 +20,7 @@ def b(posl):
     logging.info(f"Выпал бочонок: {barrel}")
     return barrel
 
+# Ввод количества бочек
 def main():
     while True:
         try:
@@ -29,6 +30,8 @@ def main():
             break
         except ValueError:
             print("Некорректный ввод. Пожалуйста, введите целое положительное число.")
+
+# Генерация последовательности бочек
     sequence = a(N)
 
     # Пока в последовательности остались бочки
