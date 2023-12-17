@@ -13,6 +13,6 @@
 Скачать код в GitHub под названием '9 zadanie.py'. Запустить код. Ввести от 1 до N количество бочек. Нажатием клавишей 'Ctrl' в случайном порядке вытаскивается одна бочка и так до последней.
 # Результаты тестирования
 ![Alt-текст](https://github.com/EduardSabr/rabota09/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
-![Alt-текст](![image](https://github.com/EduardSabr/rabota09/assets/146577127/1ddb1e7a-c5f3-497c-9725-bc94f9db57b2)
+![Alt-текст](https://github.com/EduardSabr/rabota09/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
 ![Alt-текст](https://github.com/EduardSabr/rabota09/blob/main/3%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
 ![Alt-текст](https://github.com/EduardSabr/rabota09/blob/main/4%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
